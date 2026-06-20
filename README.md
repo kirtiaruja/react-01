@@ -7,11 +7,10 @@
 
 <img width="1142" height="651" alt="image" src="https://github.com/user-attachments/assets/150be091-88d1-43a7-b969-620ac694d9cb" />
 
-#
-
-<img width="1141" height="651" alt="image" src="https://github.com/user-attachments/assets/e93b333c-e3d8-4f2e-9ac6-7570fc5579b4" />
-
-#
+# Updating object values
 
 <img width="1126" height="621" alt="image" src="https://github.com/user-attachments/assets/510111bc-4682-421b-9154-a9f16ab7e62f" />
 
+#
+
+<img width="1126" height="621" alt="image" src="https://github.com/user-attachments/assets/f40f1c4f-f8a3-4b18-99d8-af76596424c1" />
