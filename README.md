@@ -6,3 +6,12 @@
 ## bunch updating object values
 
 <img width="1142" height="651" alt="image" src="https://github.com/user-attachments/assets/150be091-88d1-43a7-b969-620ac694d9cb" />
+
+#
+
+<img width="1141" height="651" alt="image" src="https://github.com/user-attachments/assets/e93b333c-e3d8-4f2e-9ac6-7570fc5579b4" />
+
+#
+
+<img width="1126" height="621" alt="image" src="https://github.com/user-attachments/assets/510111bc-4682-421b-9154-a9f16ab7e62f" />
+
