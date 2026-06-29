@@ -17,6 +17,6 @@
 # React-Route-Dom
 <img width="572" height="323" alt="image" src="https://github.com/user-attachments/assets/4ac56916-8430-459f-8ac5-eb2ced1f860f" />
 
-# using <link > to not reload
+# using `<link >` to not reload
 <img width="575" height="326" alt="image" src="https://github.com/user-attachments/assets/ace4dce2-5e11-43e8-b770-c239c3e2889e" />
 
