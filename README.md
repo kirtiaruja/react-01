@@ -20,4 +20,7 @@
 # using `<link >` to not reload
 <img width="575" height="323" alt="image" src="https://github.com/user-attachments/assets/8ee9eb04-e79a-4121-95bb-9f6e2e36c1e1" />
 
+# Nest Routing 
+<img width="574" height="325" alt="image" src="https://github.com/user-attachments/assets/55a06473-9b27-4f55-89c6-9f0977d38ba5" />
 
+<img width="575" height="324" alt="image" src="https://github.com/user-attachments/assets/14f3804f-33a0-478e-858a-9bfd47d64e0f" />
